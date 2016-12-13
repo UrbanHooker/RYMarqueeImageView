@@ -12,7 +12,7 @@ A UIImageView with marquee effect
 ##CocoaPods
 1. Add `pod 'RYMarqueeImageView'` to your Podfile.
 2. Run `pod install` or `pod update`.
-3. Import "RYMarqueeLabel.h".
+3. Import "RYMarqueeImageView.h".
 
 
 ##Manually
